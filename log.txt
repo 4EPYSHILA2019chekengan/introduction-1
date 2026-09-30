@@ -1,0 +1,2 @@
+f91db5c Добавил status.txt
+7d7d814 Добавил README.md
